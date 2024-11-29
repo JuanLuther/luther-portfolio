@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/portfolio",
+  base: "/luther-portfolio",
   build: {
     // outDir: "./root", // Set the output directory to the project root
     // emptyOutDir: false, // Prevent Vite from deleting other files in the root
